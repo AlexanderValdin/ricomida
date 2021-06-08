@@ -1,0 +1,41 @@
+@media (max-width: 991px) {
+  .headers-text {
+    text-align: center;
+  }
+
+  header h2 {
+    padding: 0 !important;
+  }
+}
+
+nav h1, span, footer {
+  font-family: Lobster, cursive;
+}
+
+nav a, main, .suscribe h1, .suscribe p {
+  font-family: Cabin, sans- sans-serif;
+}
+
+header h2 {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+ul li {
+  padding: 6px 0px;
+}
+
+.suscribe p {
+  font-size: 24px;
+}
+.carousel-indicators {
+    top: 105%;
+}
+
+.carousel-indicators li {
+    border-radius: 50%;
+    background-color: grey;
+    width: 11px;
+    height: 11px;
